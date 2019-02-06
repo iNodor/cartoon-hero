@@ -1,0 +1,51 @@
+html, body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+
+}
+
+header {
+	background-color: #254477;
+	padding: 40px;
+	text-align: center;
+	font-style: bold;
+}
+
+h1 {
+	font-size: 40px;
+	color: white;
+}
+
+.content{
+	max-width: :800px;
+	margin: auto;
+	padding: 0 30px;
+	background-color: #384459;
+}
+
+p.caption{
+	font-style: italic;
+	color: lightgrey;
+	font-size: 20px;
+}
+
+ul{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+footer ul li{
+	display: inline-block;
+	text-align: center;
+}
+
+header img{}
+/*<head>
+	<title>Captain America</title>
+	<link rel="stylesheet" type="text/css" href="css/hero.css">
+</head>*/
